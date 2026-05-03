@@ -1,40 +1,47 @@
-HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🍏 Project Jackfruit | SunCart 🛒
 
-## Getting Started
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_Demo-black?style=for-the-badge&logo=vercel)](https://jackfruit-one.vercel.app)
+[![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
+[![Better Auth](https://img.shields.io/badge/Better_Auth-Security-blueviolet?style=for-the-badge)](https://better-auth.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb)](https://mongodb.com)
 
-First, run the development server:
+**SunCart** is a modern, high-performance E-commerce storefront designed for speed, security, and a seamless user experience. From a sleek glassmorphic UI to robust Google OAuth integration, it demonstrates a complete full-stack workflow.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌟 Key Highlights
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+*   **⚡ Edge-Ready Performance:** Built with **Next.js 15 (App Router)** for optimized server-side rendering and static generation.
+*   **🛡️ Secure Authentication:** Integrated with **Better Auth**, featuring Google Social Login and secure session management.
+*   **🎨 Designer UI:** A beautiful interface crafted with **Tailwind CSS** and **DaisyUI** components for a responsive, modern look.
+*   **🍃 Scalable Database:** Powered by **MongoDB Atlas** for flexible and reliable product data storage.
+*   **📱 Mobile First:** Fully responsive design that looks great on everything from iPhones to 4K monitors.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+### Frontend & UI
+- **Framework:** Next.js 15
+- **Styling:** Tailwind CSS + DaisyUI
+- **Icons:** Lucide React
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Backend & Auth
+- **Authentication:** Better Auth (Google OAuth + Email)
+- **Database:** MongoDB Atlas
+- **Runtime:** Node.js
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Deployment
+- **Hosting:** Vercel
+- **CI/CD:** GitHub Actions
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🚀 Installation & Local Setup
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# jackfruit
-bb1879d56ede4b39e882c17a48430a491793728b
+Get the project running on your machine in minutes:
+
+1. **Clone the Repo:**
+   ```bash
+   git clone [https://github.com/ShahriarHZ/jackfruit.git](https://github.com/ShahriarHZ/jackfruit.git)
+   cd jackfruit/my-app
