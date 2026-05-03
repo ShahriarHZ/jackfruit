@@ -45,3 +45,18 @@ Get the project running on your machine in minutes:
    ```bash
    git clone [https://github.com/ShahriarHZ/jackfruit.git](https://github.com/ShahriarHZ/jackfruit.git)
    cd jackfruit/my-app
+   my-app/
+├── src/
+│   ├── app/            # Next.js App Router (Products, Profile, Register)
+│   ├── components/     # Reusable UI (Navbar, Footer, ProductGrid)
+│   ├── lib/            # Auth & DB configurations (auth.js, auth-client.js)
+│   └── data/           # Static data & product schemas
+└── public/             # Assets & Icons
+
+npm install
+npm run dev
+
+👨‍💻 Developed By
+Md. Shahriar Hossain Zisan
+
+CSE Student @ University of Barishal
